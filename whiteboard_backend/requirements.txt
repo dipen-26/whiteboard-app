@@ -1,0 +1,6 @@
+Django==5.1.7
+djangorestframework
+channels
+channels_redis
+djangorestframework-simplejwt
+redis
